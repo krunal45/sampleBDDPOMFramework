@@ -1,0 +1,21 @@
+2023-04-17 16:06:53,428  INFO [main] BasePage:109 - Opened url https://candidatex:qa-is-cool@qa-task.backbasecloud.com/
+2023-04-17 16:06:53,861  INFO [main] BasePage:82 - Clicked on Sign UP Link
+2023-04-17 16:06:54,072  INFO [main] BasePage:53 - Entered userName
+2023-04-17 16:06:54,150  INFO [main] BasePage:59 - Entered email
+2023-04-17 16:06:54,238  INFO [main] BasePage:65 - Entered password
+2023-04-17 16:06:54,330  INFO [main] BasePage:71 - Clicked on SignUP button
+2023-04-17 16:06:55,056  INFO [main] BasePage:134 - Window closed
+2023-04-17 16:07:01,417  INFO [main] BasePage:109 - Opened url https://candidatex:qa-is-cool@qa-task.backbasecloud.com/
+2023-04-17 16:07:01,689  INFO [main] BasePage:82 - Clicked on Sign UP Link
+2023-04-17 16:07:01,887  INFO [main] BasePage:53 - Entered userName
+2023-04-17 16:07:01,959  INFO [main] BasePage:59 - Entered email
+2023-04-17 16:07:02,049  INFO [main] BasePage:65 - Entered password
+2023-04-17 16:07:02,127  INFO [main] BasePage:71 - Clicked on SignUP button
+2023-04-17 16:07:02,901  INFO [main] BasePage:134 - Window closed
+2023-04-17 16:07:08,938  INFO [main] BasePage:109 - Opened url https://candidatex:qa-is-cool@qa-task.backbasecloud.com/
+2023-04-17 16:07:09,207  INFO [main] BasePage:82 - Clicked on Sign UP Link
+2023-04-17 16:07:09,373  INFO [main] BasePage:53 - Entered userName
+2023-04-17 16:07:09,457  INFO [main] BasePage:59 - Entered email
+2023-04-17 16:07:09,534  INFO [main] BasePage:65 - Entered password
+2023-04-17 16:07:09,599  INFO [main] BasePage:71 - Clicked on SignUP button
+2023-04-17 16:07:10,358  INFO [main] BasePage:134 - Window closed
