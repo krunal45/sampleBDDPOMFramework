@@ -1,0 +1,21 @@
+pipeline {
+    agent any
+
+    stages {
+        stage('Build') {
+            steps {
+               build quietPeriod: 5, job: 'TestJob1' 
+            }
+        }
+        stage('Test'){
+        steps{
+            echo 'test'
+        }
+            }
+           stage('Deploy'){
+        steps{
+            echo 'deploy'
+        }
+            }   
+    }
+}
